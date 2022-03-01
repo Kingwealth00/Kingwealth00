@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kingwealth00
 - 👀 I’m interested in learning more 
-- 🌱 I’m currently learning UI/UX
+- 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on things that I need to help me learn better
 - 📫 How to reach me oniteniolapamilerin@gmail.com
 
